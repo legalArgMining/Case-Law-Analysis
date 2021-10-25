@@ -2,7 +2,7 @@
 The supplementary material is for the paper "Towards Reducing the Pendency of Cases at Court: Automated Case Analysis of Supreme Court Judgments in India" which has been accepted at 34th International Conference on Legal Knowledge and Information Systems, December 8-10, 2021, Mykolas Romeris University, Vilnius, Lithuania. (Short paper presentation). 
 
 We describe the rules for identifying each of the case analysis roles and provide some examples from some of the judgment documents here for the interested readers in the PDF.
-We also provided the data used in the task, and the annotations along with resolved text in this repository. 
+**We also provided the data used in the task, and the annotations along with resolved text in this repository. All the proprietory information has been removed from the crawled original texts.
 
 For any new supplementary or accompanying material or progress, we will keep on updating this repository from time to time. 
 
